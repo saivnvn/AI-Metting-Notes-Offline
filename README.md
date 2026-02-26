@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="120" alt="AI Meeting Notes Logo"/>
+  <img src="logo.jpg" width="120" alt="AI Meeting Notes Logo"/>
 </p>
 
 <h1 align="center">
@@ -46,7 +46,7 @@ Perfect for:
 ## 🎙 REAL-TIME RECORD & TRANSCRIBE
 
 <p align="center">
-  <img src="anh1.png" width="80%">
+  <img src="anh1.png" width="50%">
 </p>
 
 - High-accuracy speech to text  
@@ -59,7 +59,7 @@ Perfect for:
 ## 🧠 SMART AI SUMMARY
 
 <p align="center">
-  <img src="anh2.png" width="80%">
+  <img src="anh2.png" width="50%">
 </p>
 
 - Automatically summarizes long meetings  
@@ -71,7 +71,7 @@ Perfect for:
 ## ✅ ACTION ITEM DETECTION
 
 <p align="center">
-  <img src="anh3.png" width="80%">
+  <img src="anh3.png" width="50%">
 </p>
 
 - Detects tasks and deadlines  
